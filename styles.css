@@ -75,9 +75,19 @@
 /* =================== Contact ================== */
 
 .container-contact-subtitle {
+    
 
 }
 
-.container-contact-form {
+#blurb{
+    font-size: 30px;
+    color: blueviolet;
+
+}
+.contactFont{
+    font-size: 30px;
     
+}
+.container-contact-form {
+    background-color: aquamarine;
 }
