@@ -11,17 +11,17 @@
 
 .section-top-header {
     height: 30vh;
-    background-color: blue;
+    background-color: rgb(48, 48, 173);
 }
 
 .section-main {
     height: 100vh;
-    background: red;
+    background: rgb(87, 19, 19);
 }
 
 .section-bottom-footer {
     height: 30vh;
-    background: yellow;
+    background: rgb(129, 129, 27);
 }
 
 /* =================== Header (including nav) ================== */
@@ -55,11 +55,19 @@
 /* =================== Home (index.html) ================== */
 
 .container-left-pane {
-
+    background-color: bisque;
+    font-size: 20px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
 }
 
 .container-right-pane {
-
+    background-color: cadetblue;
+    font-size: 20px;
+    width: 500px;
+    height: 500px;
+    text-align: center;
 }
 
 /* =================== About ================== */
